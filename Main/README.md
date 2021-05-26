@@ -14,8 +14,6 @@
 
 # Developing Ideas
  - XR Interaction Design Project
-- code patterns 
-https://developer.ibm.com/components/cloud-ibm/patterns/
 - guided walk-through process
 - Taj Watson SDK is similar
 - Watson VR Sandbox
