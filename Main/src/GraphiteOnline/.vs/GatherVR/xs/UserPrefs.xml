@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{F8CBDA17-7DE4-7E53-452B-A74B8D04DEC9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Code/Network/NetworkPlayer.cs">
+    <Files>
+      <File FileName="Assets/Code/Network/NetworkManager.cs" Line="84" Column="6" />
+      <File FileName="Assets/Code/Network/NetworkVoiceManager.cs" Line="1" Column="18" />
+      <File FileName="Assets/Code/Network/NetworkSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/Code/Network/NetworkPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/DEP/MobileHands/Scripts/HandPresence.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GatherVR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Code" expanded="True">
+                <Node name="Network" expanded="True">
+                  <Node name="NetworkPlayer.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="DEP" expanded="True">
+                <Node name="MobileHands" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e300009c-3edb-4085-aec0-8161c540f5b0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
